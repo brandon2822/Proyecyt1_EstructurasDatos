@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\bin\Debug\PROYECTOBD.exe.config
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\bin\Debug\PROYECTOBD.exe
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\bin\Debug\PROYECTOBD.pdb
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Form1.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Properties.Resources.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.exe
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.pdb
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Mostrar.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Agregar.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Producto.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Pedido.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Proveedor.resources
