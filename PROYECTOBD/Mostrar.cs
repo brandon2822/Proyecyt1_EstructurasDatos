@@ -30,7 +30,7 @@ namespace PROYECTOBD
             {
                 MessageBox.Show("Por favor ingrese un nombre de tabla.");
              
-            } else if (txtTabla.Text.ToLower() == "Pedidos")
+            } else if (txtTabla.Text.ToLower() == "pedidos")
             {
                 string query = "Select * from Pedidos";
                 SqlCommand comand = new SqlCommand(query, connection);
@@ -39,7 +39,7 @@ namespace PROYECTOBD
                 data.Fill(dt);
                 dataGridView1.DataSource = dt;
             }
-            else if (txtTabla.Text.ToLower() == "Productos")
+            else if (txtTabla.Text.ToLower() == "productos")
             {
                 string query = "Select * from Productos";
                 SqlCommand comand = new SqlCommand(query, connection);

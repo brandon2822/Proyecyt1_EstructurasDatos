@@ -44,15 +44,17 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(408, 204);
+            this.dataGridView1.Location = new System.Drawing.Point(404, 53);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(320, 193);
+            this.dataGridView1.Size = new System.Drawing.Size(331, 360);
             this.dataGridView1.TabIndex = 44;
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(408, 137);
+            this.btnLimpiar.Location = new System.Drawing.Point(223, 238);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(107, 51);
             this.btnLimpiar.TabIndex = 43;
@@ -61,7 +63,7 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(408, 53);
+            this.btnAgregar.Location = new System.Drawing.Point(75, 238);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(107, 51);
             this.btnAgregar.TabIndex = 42;

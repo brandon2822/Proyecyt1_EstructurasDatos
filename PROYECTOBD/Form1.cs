@@ -17,9 +17,6 @@ namespace PROYECTOBD
         static string stringConnection = "server= DESKTOP-JNRPR72\\SQLEXPRESS ; database= Inventario ; integrated security= true";
         SqlConnection connection = new SqlConnection(stringConnection);
 
-        Mostrar ventanaMostrar = new Mostrar();
-        Agregar ventanaAgregar = new Agregar();
-
         public Form1()
         {
             InitializeComponent();
@@ -29,6 +26,7 @@ namespace PROYECTOBD
         // Boton de Mostrar que abre la ventana para de Mostrar
         private void btnMostrar_Click(object sender, EventArgs e)
         {
+            Mostrar ventanaMostrar = new Mostrar();
             ventanaMostrar.Show();
         }
 
@@ -36,8 +34,24 @@ namespace PROYECTOBD
         // Boton de agregar que abre la ventana de agregar
         private void btnAgregar_Click(object sender, EventArgs e)
         {
+            Agregar ventanaAgregar = new Agregar();
             ventanaAgregar.Show();
 
+        }
+
+        //Mostar ventada de Eliminar
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            ELIMINAR ventanaEliminar = new ELIMINAR();
+            ventanaEliminar.Show();
+        }
+
+
+        //Mostar ventada de Modificar
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            Modificar ventanaModificar = new Modificar();
+            ventanaModificar.Show();
         }
     }
 }

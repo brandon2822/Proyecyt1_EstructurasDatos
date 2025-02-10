@@ -162,7 +162,7 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(380, 25);
+            this.btnAgregar.Location = new System.Drawing.Point(47, 342);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(107, 51);
             this.btnAgregar.TabIndex = 14;
@@ -172,7 +172,7 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(380, 109);
+            this.btnLimpiar.Location = new System.Drawing.Point(180, 342);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(107, 51);
             this.btnLimpiar.TabIndex = 15;
@@ -182,10 +182,12 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(380, 176);
+            this.dataGridView1.Location = new System.Drawing.Point(334, 25);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(320, 193);
+            this.dataGridView1.Size = new System.Drawing.Size(432, 368);
             this.dataGridView1.TabIndex = 16;
             // 
             // Producto

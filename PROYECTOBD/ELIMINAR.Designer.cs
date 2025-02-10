@@ -42,6 +42,7 @@
             this.btnEliminarProveedor.TabIndex = 7;
             this.btnEliminarProveedor.Text = "ELIMINAR PROVEEDOR";
             this.btnEliminarProveedor.UseVisualStyleBackColor = true;
+            this.btnEliminarProveedor.Click += new System.EventHandler(this.btnEliminarProveedor_Click);
             // 
             // btnEliminarPedido
             // 
@@ -51,6 +52,7 @@
             this.btnEliminarPedido.TabIndex = 6;
             this.btnEliminarPedido.Text = "ELIMINAR PEDIDO";
             this.btnEliminarPedido.UseVisualStyleBackColor = true;
+            this.btnEliminarPedido.Click += new System.EventHandler(this.btnEliminarPedido_Click);
             // 
             // btnEliminarProducto
             // 
