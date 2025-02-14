@@ -21,19 +21,19 @@ namespace PROYECTOBD
         private void btnModProducto_Click(object sender, EventArgs e)
         {
             ModificarProducto producto = new ModificarProducto();
-            producto.Show();
+            producto.ShowDialog();
         }
 
         private void btnModPedido_Click(object sender, EventArgs e)
         {
             ModificarPedido pedido = new ModificarPedido();
-            pedido.Show();
+            pedido.ShowDialog();
         }
 
         private void btnModProveedor_Click(object sender, EventArgs e)
         {
             ModificarProveedor proveedor = new ModificarProveedor();
-            proveedor.Show();
+            proveedor.ShowDialog();
         }
     }
 }

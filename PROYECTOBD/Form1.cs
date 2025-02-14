@@ -27,7 +27,7 @@ namespace PROYECTOBD
         private void btnMostrar_Click(object sender, EventArgs e)
         {
             Mostrar ventanaMostrar = new Mostrar();
-            ventanaMostrar.Show();
+            ventanaMostrar.ShowDialog();
         }
 
 
@@ -35,7 +35,7 @@ namespace PROYECTOBD
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Agregar ventanaAgregar = new Agregar();
-            ventanaAgregar.Show();
+            ventanaAgregar.ShowDialog();
 
         }
 
@@ -43,7 +43,7 @@ namespace PROYECTOBD
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             ELIMINAR ventanaEliminar = new ELIMINAR();
-            ventanaEliminar.Show();
+            ventanaEliminar.ShowDialog();
         }
 
 
@@ -51,7 +51,7 @@ namespace PROYECTOBD
         private void btnModificar_Click(object sender, EventArgs e)
         {
             Modificar ventanaModificar = new Modificar();
-            ventanaModificar.Show();
+            ventanaModificar.ShowDialog();
         }
     }
 }

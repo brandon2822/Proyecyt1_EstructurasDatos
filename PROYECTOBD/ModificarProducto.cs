@@ -16,7 +16,7 @@ namespace PROYECTOBD
         // Crear conexion a la base de datos SQL
         static string stringConnection = "server= DESKTOP-JNRPR72\\SQLEXPRESS ; database= Inventario ; integrated security= true";
         SqlConnection connection = new SqlConnection(stringConnection);
-
+        
         public ModificarProducto()
         {
             InitializeComponent();
@@ -42,7 +42,6 @@ namespace PROYECTOBD
                     var resultado = command.ExecuteScalar();
                     connection.Close();
                     txtModNombre.Text = resultado.ToString();
-
                 }
 
                 if (txtModDescripcion.Text == "")
@@ -65,7 +64,7 @@ namespace PROYECTOBD
                     txtModPrecio.Text = resultado.ToString();
 
                 }
-
+                
                 if (txtModCantidad.Text == "")
                 {
                     connection.Open();
@@ -102,7 +101,8 @@ namespace PROYECTOBD
                 /// Reliza la modificacion a la Base de Datos y muestra los cambios
                 int flag = 0;
                 connection.Open();
-                string query = $"UPDATE Productos set nombre = '{txtModNombre.Text}', descripcion = '{txtModDescripcion.Text}', precio = {txtModPrecio.Text}, cantidad = '{txtModCantidad.Text}'," +
+                string query = $"UPDATE Productos set nombre = '{txtModNombre.Text}', descripcion = '{txtModDescripcion.Text}', " +
+                    $"precio = {txtModPrecio.Text}, cantidad = '{txtModCantidad.Text}'," +
                     $"categoria ='{txtModCategoria.Text}', ID_Proveedor = '{txtModProveedor.Text}' WHERE ID = '{txtIDproducto.Text}'";
                 SqlCommand comand = new SqlCommand(query, connection);
                 flag = comand.ExecuteNonQuery();

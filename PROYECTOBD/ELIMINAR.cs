@@ -23,20 +23,20 @@ namespace PROYECTOBD
 
         {
             EliminarProducto EliminarProd = new EliminarProducto();
-            EliminarProd.Show();
+            EliminarProd.ShowDialog();
         }
 
         private void btnEliminarPedido_Click(object sender, EventArgs e)
         {
             EliminarPedido EliminarPedido = new EliminarPedido();
-            EliminarPedido.Show();
+            EliminarPedido.ShowDialog();
 
         }
 
         private void btnEliminarProveedor_Click(object sender, EventArgs e)
         {
             EliminarProveedor EliminarProv = new EliminarProveedor();
-            EliminarProv.Show();
+            EliminarProv.ShowDialog();
         }
     }
 }

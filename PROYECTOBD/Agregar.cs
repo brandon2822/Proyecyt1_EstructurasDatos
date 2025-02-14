@@ -22,19 +22,19 @@ namespace PROYECTOBD
         private void btnAgregarProducto_Click(object sender, EventArgs e)
         {
             Producto AgregarP = new Producto();
-            AgregarP.Show();
+            AgregarP.ShowDialog();
         }
 
         private void btnAgregarPedido_Click(object sender, EventArgs e)
         {
             Pedido AgregarPed = new Pedido();
-            AgregarPed.Show();
+            AgregarPed.ShowDialog();
         }
 
         private void btnAgregarProveedor_Click(object sender, EventArgs e)
         {
             Proveedor AgregarProv = new Proveedor();
-            AgregarProv.Show();
+            AgregarProv.ShowDialog();
         }
     }
 }
