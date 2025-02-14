@@ -33,6 +33,7 @@
             this.btnMostrar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnReporte = new System.Windows.Forms.Button();
             btnAgregar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -68,7 +69,7 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(489, 280);
+            this.btnEliminar.Location = new System.Drawing.Point(478, 280);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(100, 75);
             this.btnEliminar.TabIndex = 3;
@@ -79,17 +80,30 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(272, 106);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.label1.Location = new System.Drawing.Point(268, 116);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(142, 13);
+            this.label1.Size = new System.Drawing.Size(260, 25);
             this.label1.TabIndex = 4;
             this.label1.Text = "GESTION DE INVENTARIO";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // btnReporte
+            // 
+            this.btnReporte.Location = new System.Drawing.Point(618, 280);
+            this.btnReporte.Name = "btnReporte";
+            this.btnReporte.Size = new System.Drawing.Size(100, 75);
+            this.btnReporte.TabIndex = 5;
+            this.btnReporte.Text = "REPORTE";
+            this.btnReporte.UseVisualStyleBackColor = true;
+            this.btnReporte.Click += new System.EventHandler(this.btnReporte_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnReporte);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnMostrar);
@@ -107,6 +121,7 @@
         private System.Windows.Forms.Button btnMostrar;
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnReporte;
     }
 }
 

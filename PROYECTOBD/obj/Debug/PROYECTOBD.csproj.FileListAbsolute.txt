@@ -21,3 +21,4 @@ C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj
 C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.ModificarPedido.resources
 C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.ModificarProducto.resources
 C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.ModificarProveedor.resources
+C:\Users\DELL\Documents\Q1 - 2025\Estructuras de Datos\PROYECTOBD\PROYECTOBD\obj\Debug\PROYECTOBD.Reportes.resources

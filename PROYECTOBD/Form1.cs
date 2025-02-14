@@ -53,5 +53,12 @@ namespace PROYECTOBD
             Modificar ventanaModificar = new Modificar();
             ventanaModificar.ShowDialog();
         }
+
+        //Muestra la ventana de reportes
+        private void btnReporte_Click(object sender, EventArgs e)
+        {
+            Reportes ventanaReporte = new Reportes();
+            ventanaReporte.ShowDialog();
+        }
     }
 }

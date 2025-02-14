@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|c:\\users\\dell\\documents\\q1 - 2025\\estructuras de datos\\proyectobd\\proyectobd\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|solutionrelative:proyectobd\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|c:\\users\\dell\\documents\\q1 - 2025\\estructuras de datos\\proyectobd\\proyectobd\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|solutionrelative:proyectobd\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|c:\\users\\dell\\documents\\q1 - 2025\\estructuras de datos\\proyectobd\\proyectobd\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|solutionrelative:proyectobd\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|c:\\users\\dell\\documents\\q1 - 2025\\estructuras de datos\\proyectobd\\proyectobd\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|solutionrelative:proyectobd\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|c:\\users\\dell\\documents\\q1 - 2025\\estructuras de datos\\proyectobd\\proyectobd\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|solutionrelative:proyectobd\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\proyectobd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8D08C52-F4CB-4D90-846C-B3DC34AB3C57}|PROYECTOBD\\PROYECTOBD.csproj|solutionrelative:proyectobd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +38,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ModificarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\ModificarProducto.cs",
-              "RelativeDocumentMoniker": "PROYECTOBD\\ModificarProducto.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\ModificarProducto.cs",
-              "RelativeToolTip": "PROYECTOBD\\ModificarProducto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Proveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Proveedor.cs",
+              "RelativeDocumentMoniker": "PROYECTOBD\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Proveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTOBD\\Proveedor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T20:06:21.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T02:23:17.237Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Pedido.cs",
+              "RelativeDocumentMoniker": "PROYECTOBD\\Pedido.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Pedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTOBD\\Pedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:23:08.184Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Producto.cs",
+              "RelativeDocumentMoniker": "PROYECTOBD\\Producto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Producto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTOBD\\Producto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:22:56.841Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Modificar.cs",
+              "RelativeDocumentMoniker": "PROYECTOBD\\Modificar.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Modificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTOBD\\Modificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:22:17.792Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTOBD\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Q1 - 2025\\Estructuras de Datos\\PROYECTOBD\\PROYECTOBD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTOBD\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:07:58.327Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
